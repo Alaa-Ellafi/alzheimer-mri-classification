@@ -1,7 +1,6 @@
 # Alzheimer's Disease Detection from MRI — 2D & 3D CNNs
 
 **Multi-class classification of Alzheimer's disease stages** from brain MRI scans using 2D and 3D convolutional neural networks.  
-Course project — P2M, Sup'Com · 2024–2025  
 **Best model: DenseNet121 — Balanced Accuracy: 94.88% · AUC: 0.97 · Sensitivity: 98.89%**
 
 ---
